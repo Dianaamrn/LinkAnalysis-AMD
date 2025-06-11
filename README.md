@@ -2,7 +2,7 @@
 Project Overview:
 
 
-This project was developed by as part of the course Algorithms for Massive Data at the University of Milan. It addresses Project 3, which involves designing and implementing a ranking system using the PageRank algorithm applied to book review data.
+This project was developed as part of the course Algorithms for Massive Data at the University of Milan. It addresses Project 3, which involves designing and implementing a ranking system using the PageRank algorithm applied to book review data.
 
 The repository contains two Jupyter notebooks:
 
